@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+    align-items: center !important;
+ }
+ @media screen  {
+  
+
+body {
+    background-color: rgb(125, 227, 129);
+    color: rgb(13, 12, 12);
+    height:100vh;
+    text-align: center ;
+    width: 50vw;
+  }
+  .page1:hover{
+    background-color:#aae605 !important;
+    color:rgb(10, 13, 2)  !important;
+ }
+#description {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+  }
+  #nav-bar {
+  
+    position: relative;
+  
+  }
+}
+ 
+
+
+
+    
+   
+
