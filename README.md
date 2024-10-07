@@ -3,7 +3,7 @@
 <p>Pagination of user Data using HTML,JAVASCRIPT DOM AND CSS...<p>
 
 <br><br>
-Netlify Url :
+Netlify Url : https://transcendent-haupia-2d2294.netlify.app/
 <br><br>
 Data_Origin_URL : https://raw.githubusercontent.com/Rajavasanthan/jsondata/master/pagenation.json
 <br><br>
